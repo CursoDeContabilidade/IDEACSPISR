@@ -1,4 +1,5 @@
-## 4. Classificação das Atividades Comerciais
+Data:13/03/2026
+# RA2 - Resultado de Aprendizagem 2: 4. Classificação das Atividades Comerciais
 
 ### 4.1 Comércio a Retalho (Varejo)
 

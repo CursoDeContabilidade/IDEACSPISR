@@ -1,4 +1,5 @@
-# Atividade Comercial
+Data:13/03/2026
+# RA1-Resultado de Aprendizagem 1: Definir a Atividade Comercial
 
 ## 1. Conceito de Comércio
 
